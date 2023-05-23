@@ -12,15 +12,15 @@
 <h3>Auto Update: </h3>
 
 ```css
-@import url("https://raw.githubusercontent.com/miovo/Jellyflix/main/default.css");
+@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@main/default.css");
 ```
 
 <h3>With Logos(recommended):</h3>
 <h3>Auto Update:</h3>
 
 ```css
-@import url("https://raw.githubusercontent.com/miovo/Jellyflix/main/default.css");
-@import url("https://raw.githubusercontent.com/miovo/Jellyflix/main/addons/Logo.css");
+@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@main/default.css");
+@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@main/addons/Logo.css");
 ```
 
 <br>
@@ -28,12 +28,12 @@
 Jellyfin-Blue:
 
 ```css
-@import url("https://raw.githubusercontent.com/miovo/Jellyflix/main/addons/jf-blue.css");
+@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@main/addons/jf-blue.css");
 ```
 Jellyfin-Purple:
 
 ```css
-@import url("https://raw.githubusercontent.com/miovo/Jellyflix/main/addons/jf-purple.css");
+@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@main/addons/jf-purple.css");
 ```
 
 
