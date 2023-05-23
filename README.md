@@ -1,5 +1,5 @@
 <div align="center">
-<h1>JellyFlix</h1>
+<h1>Jellyflix</h1>
 <h3>Looks, Feels and Smells like Netflix</h3>
 <h3>Netflix Theme for Jellyfin</h3>
 </div>
@@ -19,8 +19,8 @@
 <h3>Auto Update:</h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@main/default.css");
-@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@main/addons/Logo.css");
+@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@latest/default.css");
+@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@latest/addons/Logo.css");
 ```
 
 <br>
@@ -28,12 +28,12 @@
 Jellyfin-Blue:
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@main/addons/jf-blue.css");
+@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@latest/addons/jf-blue.css");
 ```
 Jellyfin-Purple:
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@main/addons/jf-purple.css");
+@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@latest/addons/jf-purple.css");
 ```
 
 
