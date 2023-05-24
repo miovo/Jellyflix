@@ -12,7 +12,7 @@
 <h3>Auto Update: </h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@main/default.css");
+@import url("https://cdn.jsdelivr.net/gh/miovo/Jellyflix@latest/default.css");
 ```
 
 <h3>With Logos(recommended):</h3>
