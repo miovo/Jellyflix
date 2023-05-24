@@ -65,13 +65,3 @@ Jellyfin-Purple:
 <div class="faq">
 <h2>The UI feels cluttered? try:</h2><h3>Use 67% zoom for better experience on PC</h3>
 </div>
-<br>
-<div class="note">
-  <h2>Note: If you want any things to be changed/added to this skin create and issue with 'Feature Request:' in front of it and I also want to make this skin to be supported by most of the devices, so create an issue if your device doesn't work properly with it. Please provide me the name of your device with it's type in this format-<br></h2>
-
-  ```
-    Device-name: Your name
-    type: Mobile/TV (Laptop are all supported, use 67% zoom)
-  ```
-</div>
-<br>
